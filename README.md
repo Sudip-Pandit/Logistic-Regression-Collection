@@ -1,4 +1,4 @@
-# Logistic-Regression on::
+# This repository consists of Logistic-Regression 
 
 # 1. Pima Dataset
 
@@ -14,7 +14,8 @@ The datasets consists of several medical predictor variables and one target vari
 Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 
 
-# logistic regression on admission dataset:
+# 2. logistic regression on admission dataset:
+
 # Description of the Project
 Importing the Libraries and load the datasets
 Exploring the data and visualization
